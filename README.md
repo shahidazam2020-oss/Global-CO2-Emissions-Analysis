@@ -72,7 +72,7 @@ Pakistan     | Asia   | 1991 | ...
 Pakistan     | Asia   | 1992 | ...
 ```
 
-The following steps are performed:
+**The following steps are performed:**
 
 1. The dataset is loaded using Pandas.
 
