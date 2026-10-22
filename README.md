@@ -412,4 +412,6 @@ If you intend to make the source and project available for reuse, consider addin
 
 
 ---
-### ⭐ If you find this project useful, please consider giving the repository a star.
+### ⭐ If you find this project interesting, consider starring the repository!
+
+<div align="center">
