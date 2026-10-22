@@ -40,7 +40,7 @@ The analysis includes multiple graphs such as line charts, bar charts, heatmaps,
 
 **The dataset contains information for approximately 215 countries and territories.**
 
-The dataset includes:
+**The dataset includes:**
 
 | Column               | Description                       |
 | -------------------- | --------------------------------- |
