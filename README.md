@@ -202,7 +202,7 @@ CO2 Emissions
 
 ## 🔥 Visualization 4: Heatmap of CO2 Emissions
 
-A heatmap is generated to visualize CO2 emissions for different countries across multiple years.
+**A heatmap is generated to visualize CO2 emissions for different countries across multiple years.**
 
 ### Code
 
