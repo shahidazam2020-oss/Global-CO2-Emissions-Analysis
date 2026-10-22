@@ -166,7 +166,7 @@ CO2 Emissions
 
 **A multi line graph is created to analyze CO2 emission trends across different regions.**
 
-Each region is represented by a separate line.
+**Each region is represented by a separate line.**
 
 ### Visualization
 
