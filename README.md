@@ -309,7 +309,7 @@ Create Regional Bar Charts
 
 # 📊 Key Results
 
-The analysis produces the following main results:
+**The analysis produces the following main results:**
 
 | Analysis                  | Result                              |
 | ------------------------- | ----------------------------------- |
