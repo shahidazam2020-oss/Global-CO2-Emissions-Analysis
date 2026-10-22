@@ -245,7 +245,7 @@ Country C    ░░░░   ░░░░   ▓▓░░   ▓▓▓░
 
 ## 🏆 Visualization 5: Top 20 Countries by CO2 Emissions
 
-The program calculates total CO2 emissions for each country and selects the top 20 countries.
+**The program calculates total CO2 emissions for each country and selects the top 20 countries.**
 
 ### Code
 
