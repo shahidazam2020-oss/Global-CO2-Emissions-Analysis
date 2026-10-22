@@ -259,7 +259,7 @@ top_20_countries = total_emissions_by_country.sort_values(
 
 ### Visualization
 
-A horizontal bar chart is used to display the top 20 countries.
+**A horizontal bar chart is used to display the top 20 countries.**
 
 ```text id="w0vjbo"
 Country 1  ████████████████████
