@@ -54,7 +54,7 @@ The analysis includes multiple graphs such as line charts, bar charts, heatmaps,
 
 ## 🔄 Data Preparation
 
-The dataset is transformed from wide format into long format using the Pandas `melt()` function.
+**The dataset is transformed from wide format into long format using the Pandas `melt()` function.**
 
 ### Original Format
 
