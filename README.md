@@ -98,7 +98,7 @@ Pakistan     | Asia   | 1992 | ...
 total_emissions_by_year = data_melted.groupby('Year')['CO2 Emissions'].sum()
 ```
 
-The total emissions for each year are calculated by grouping all countries according to the year.
+**The total emissions for each year are calculated by grouping all countries according to the year.**
 
 ### Visualization
 
