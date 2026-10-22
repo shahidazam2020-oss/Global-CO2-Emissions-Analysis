@@ -399,6 +399,8 @@ This repository represents my work on a School Management System database projec
 <img src="https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
 </a>
 
+</div>
+
 
 ---
 ### ⭐ If you find this project useful, please consider giving the repository a star.
