@@ -116,7 +116,7 @@ Total CO2 Emissions
 
 ### Result
 
-This graph helps identify the overall trend of global CO2 emissions over time.
+**This graph helps identify the overall trend of global CO2 emissions over time.**
 
 Add your generated graph to the repository:
 
