@@ -381,5 +381,7 @@ The visualizations make complex environmental data easier to understand and prov
 
 # Shahid Azam
 
+**Computer Science | Artificial Intelligence | Database Projects**
+
 ---
 ### ⭐ If you find this project useful, please consider giving the repository a star.
