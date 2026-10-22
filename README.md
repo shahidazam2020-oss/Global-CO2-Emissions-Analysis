@@ -90,7 +90,7 @@ Pakistan     | Asia   | 1992 | ...
 
 ## 📈 Visualization 1: Total CO2 Emissions by Year
 
-A line graph is created to visualize the total CO2 emissions across all countries for each year.
+**A line graph is created to visualize the total CO2 emissions across all countries for each year.**
 
 ### Code
 
