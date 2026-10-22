@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project performs exploratory data analysis and visualization of global CO2 emissions using Python.
+**This project performs exploratory data analysis and visualization of global CO2 emissions using Python.**
 
 The main objective is to analyze CO2 emission patterns across different countries, regions, and years. The project uses data visualization techniques to identify emission trends, compare regions, discover high emitting countries, and examine changes in global CO2 emissions over time.
 
