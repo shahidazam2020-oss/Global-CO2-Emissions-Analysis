@@ -379,6 +379,8 @@ The visualizations make complex environmental data easier to understand and prov
 
 **Shahid Azam**
 
-Student and Computer Science Researcher
+<div align="center">
 
+
+---
 ### ⭐ If you find this project useful, please consider giving the repository a star.
