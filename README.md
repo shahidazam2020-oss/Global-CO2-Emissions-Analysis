@@ -26,7 +26,7 @@ The analysis includes multiple graphs such as line charts, bar charts, heatmaps,
 
 ## 🛠️ Technologies Used
 
-The following Python libraries are used:
+**The following Python libraries are used:**
 
 • Python
 
