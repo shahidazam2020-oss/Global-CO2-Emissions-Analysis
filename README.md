@@ -281,7 +281,7 @@ Country 5  ██████████
 
 **The final analysis groups countries according to their regions.**
 
-For each region, the program identifies the five countries with the highest total CO2 emissions.
+**For each region, the program identifies the five countries with the highest total CO2 emissions.**
 
 ### Process
 
