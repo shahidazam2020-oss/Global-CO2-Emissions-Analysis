@@ -132,7 +132,7 @@ Display it in GitHub:
 
 ## 📊 Visualization 2: Total CO2 Emissions by Region
 
-A bar chart is created to compare total CO2 emissions across different regions.
+**A bar chart is created to compare total CO2 emissions across different regions.**
 
 ### Code
 
