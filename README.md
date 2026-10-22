@@ -347,7 +347,7 @@ CO2-Emission-Analysis/
 
 # 📦 Installation
 
-Install the required Python libraries:
+**Install the required Python libraries:**
 
 ```python id="l0k5x7"
 pip install pandas matplotlib seaborn
