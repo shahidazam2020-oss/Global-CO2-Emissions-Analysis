@@ -417,3 +417,7 @@ If you intend to make the source and project available for reuse, consider addin
 <div align="center">
 
 **Built with Microsoft Access | Developed by Shahid Azam**
+
+*Learning, building, and improving through practical software projects.*
+
+</div>
