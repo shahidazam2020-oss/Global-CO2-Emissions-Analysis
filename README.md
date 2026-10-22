@@ -369,7 +369,7 @@ pip install pandas matplotlib seaborn
 
 # 📌 Conclusion
 
-This project demonstrates how Python can be used for environmental data analysis and visualization.
+**This project demonstrates how Python can be used for environmental data analysis and visualization.**
 
 The dataset is transformed into a suitable format for analysis, and multiple visualization techniques are used to study CO2 emission patterns. The project provides insights into global emission trends, regional differences, country level emissions, and the countries with the highest total CO2 emissions.
 
