@@ -156,7 +156,7 @@ CO2 Emissions
 
 ### Result
 
-The visualization ranks regions according to their total CO2 emissions and makes it easier to identify the regions contributing the most emissions in the dataset.
+**The visualization ranks regions according to their total CO2 emissions and makes it easier to identify the regions contributing the most emissions in the dataset.**
 
 ```markdown id="8vywwj"
 ![CO2 Emissions by Region](results/emissions_by_region.png)
