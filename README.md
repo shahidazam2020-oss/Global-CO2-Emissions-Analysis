@@ -50,7 +50,7 @@ The analysis includes multiple graphs such as line charts, bar charts, heatmaps,
 | Indicator Name       | CO2 emission indicator            |
 | 1990 to recent years | CO2 emission values for each year |
 
-The original dataset is in wide format, where every year is stored as a separate column.
+**The original dataset is in wide format, where every year is stored as a separate column.**
 
 ## 🔄 Data Preparation
 
