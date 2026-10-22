@@ -271,7 +271,7 @@ Country 5  ██████████
 
 ### Result
 
-This visualization identifies the countries with the highest cumulative CO2 emissions in the analyzed dataset.
+**This visualization identifies the countries with the highest cumulative CO2 emissions in the analyzed dataset.**
 
 ```markdown id="ggopjz"
 ![Top 20 Countries](results/top_20_countries.png)
