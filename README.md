@@ -186,7 +186,7 @@ CO2 Emissions
 
 **This visualization allows comparison of CO2 emission growth patterns between regions over time.**
 
-It can help identify:
+**It can help identify:**
 
 • Regions with increasing emissions
 
