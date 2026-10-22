@@ -225,7 +225,7 @@ Country B    ▓▓░░   ▓▓▓░   ▓▓▓▓   ███░
 Country C    ░░░░   ░░░░   ▓▓░░   ▓▓▓░
 ```
 
-Different color intensities represent different CO2 emission levels.
+**Different color intensities represent different CO2 emission levels.**
 
 ### Result
 
