@@ -279,7 +279,7 @@ Country 5  ██████████
 
 ## 🌐 Visualization 6: Top 5 Countries by CO2 Emissions in Each Region
 
-The final analysis groups countries according to their regions.
+**The final analysis groups countries according to their regions.**
 
 For each region, the program identifies the five countries with the highest total CO2 emissions.
 
