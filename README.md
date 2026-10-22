@@ -164,7 +164,7 @@ CO2 Emissions
 
 ## 🌎 Visualization 3: Growth of CO2 Emissions by Continent
 
-A multi line graph is created to analyze CO2 emission trends across different regions.
+**A multi line graph is created to analyze CO2 emission trends across different regions.**
 
 Each region is represented by a separate line.
 
