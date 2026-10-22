@@ -375,7 +375,7 @@ The dataset is transformed into a suitable format for analysis, and multiple vis
 
 The visualizations make complex environmental data easier to understand and provide a clear view of how CO2 emissions vary across countries, regions, and years.
 
-## 👨‍💻 Author
+## 👨‍💻 About the Developer
 
 **Shahid Azam**
 
