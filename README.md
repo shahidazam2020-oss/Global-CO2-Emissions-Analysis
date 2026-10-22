@@ -10,7 +10,7 @@ The analysis includes multiple graphs such as line charts, bar charts, heatmaps,
 
 ## 🎯 Objectives
 
-The main objectives of this project are:
+**The main objectives of this project are:**
 
 • Analyze total CO2 emissions over time
 
