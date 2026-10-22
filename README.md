@@ -301,7 +301,7 @@ Create Regional Bar Charts
 
 ### Result
 
-This analysis provides a detailed regional comparison and identifies the major CO2 emitting countries within each geographic region.
+**This analysis provides a detailed regional comparison and identifies the major CO2 emitting countries within each geographic region.**
 
 ```markdown id="doowt7"
 ![Top Countries by Region](results/top_countries_by_region.png)
