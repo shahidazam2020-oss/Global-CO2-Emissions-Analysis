@@ -229,7 +229,7 @@ Country C    ░░░░   ░░░░   ▓▓░░   ▓▓▓░
 
 ### Result
 
-The heatmap provides a detailed overview of:
+**The heatmap provides a detailed overview of:**
 
 • High emitting countries
 
