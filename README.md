@@ -377,10 +377,9 @@ The visualizations make complex environmental data easier to understand and prov
 
 ## 👨‍💻 About the Developer
 
-**Shahid Azam**
-
 <div align="center">
 
+# Shahid Azam
 
 ---
 ### ⭐ If you find this project useful, please consider giving the repository a star.
