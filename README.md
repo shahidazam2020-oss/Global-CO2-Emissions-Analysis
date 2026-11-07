@@ -416,6 +416,8 @@ If you intend to make the source and project available for reuse, consider addin
 ---
 # ⭐ If You Find This Project Useful
 
+If this project helps you understand machine learning for healthcare prediction, consider:
+
 ### ⭐ If you find this project interesting, consider starring the repository!
 
 <div align="center">
