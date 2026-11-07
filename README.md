@@ -426,6 +426,9 @@ If this project helps you understand machine learning for healthcare prediction,
 
 💡 **Sharing suggestions**
 
+🤝 **Contributing improvements**
+
+---
 ### ⭐ If you find this project interesting, consider starring the repository!
 
 <div align="center">
