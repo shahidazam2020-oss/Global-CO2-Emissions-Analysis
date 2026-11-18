@@ -3,7 +3,9 @@
 <a href="https://github.com/shahidazam2020-oss/Global-CO2-Emissions-Analysis/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Global-CO2-Emissions-Analysis?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
-
+<a href="https://github.com/shahidazam2020-oss/Global-CO2-Emissions-Analysis/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Global-CO2-Emissions-Analysis?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
 
   </p>
   
