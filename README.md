@@ -1,7 +1,11 @@
+<p align="center">
 
 <a href="https://github.com/shahidazam2020-oss/Global-CO2-Emissions-Analysis/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Global-CO2-Emissions-Analysis?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
+
+
+  </p>
   
 # 🌍 CO2 Emissions Data Analysis and Visualization
 
