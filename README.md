@@ -6,8 +6,13 @@
 <a href="https://github.com/shahidazam2020-oss/Global-CO2-Emissions-Analysis/forks">
     <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Global-CO2-Emissions-Analysis?style=social&cacheSeconds=60" alt="GitHub Forks">
   </a>
-
+<a href="https://github.com/shahidazam2020-oss/Global-CO2-Emissions-Analysis/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Global-CO2-Emissions-Analysis?display_timestamp=committer&style=flat-square" alt="Last Commit">
+  </a>
+  
   </p>
+
+  ---
   
 # 🌍 CO2 Emissions Data Analysis and Visualization
 
